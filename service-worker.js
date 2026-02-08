@@ -7,7 +7,7 @@ const CACHE_NAME = 'todo-pwa-v1';
 const urlsToCache = [
     '/',
     '/index.html',
-    '/task-manager-v2',
+    '/task-manager-v2/',
     '/task-manager-v2/index.html', 
     '/css/style.css',
     '/js/app.js',
