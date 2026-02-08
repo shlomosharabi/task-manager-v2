@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "dir": "rtl",
   "lang": "he",
-  "scope": "task-manager-v2",
+  "scope": "/task-manager-v2/",
   "icons": [
     {
       "src": "/icons/icon-192.png",
