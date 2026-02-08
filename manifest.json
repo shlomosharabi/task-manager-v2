@@ -2,7 +2,7 @@
   "name": "רשימת המשימות שלי",
   "short_name": "משימות",
   "description": "אפליקציית ניהול משימות עם תמיכה מלאה באופליין והתראות",
-  "start_url": "task-manager-v2",
+  "start_url": "/task-manager-v2/",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#6366f1",
