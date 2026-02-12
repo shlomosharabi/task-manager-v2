@@ -291,6 +291,7 @@ body {
 
 .task-text {
     flex: 1;
+    min-width:0;
     font-size: 1rem;
     word-wrap: break-word;
     overflow-wrap: break-word;
